@@ -4,7 +4,7 @@ Sales trends analysis for electronics e-commerce company
 # Company Background
 Founded in 2018, Elist is an e-commerce company that sells popular electronics products and has since expanded to a global customer base. Like most e-commerce companies, Elist sells products through their online site as well as through their mobile app. They use a variety of marketing channels to reach customers, including Email campaigns, SEO, and affiliate links. Over the last few years, their more popular products have been products from Apple, Samsung, and ThinkPad.
 
-# Stakeholder Questions
+### Stakeholder Questions
 
 1. What were the overall sales trends from 2019 to 2022?
 2. What were the company's yearly and monthly growth rates?
@@ -12,31 +12,34 @@ Founded in 2018, Elist is an e-commerce company that sells popular electronics p
 4. What was the company's refund rate and average order value (AOV)?
 
 Notes:
-Focus on sales revenue, AOV, and order counts
-Look at trends over yearly and monthly periods
-For refunds and AOV specifically compare across Apple products
+- Focus on sales revenue, AOV, and order counts
+- Look at trends over yearly and monthly periods
+- For refunds and AOV specifically compare across Apple products
 
 # Overview
 
-From 2019 - 2022, Elist generated a total of $28M in sales and 108K  in orders. In the span of 4 years, overall sales and order count also increased by 28%. A significant portion of the sales derived from 2020 where the onset of the pandemic drove consumers to pivot their purchasing habits from in-person to online-ordering, resulting in $6M in sales for the company. In 2021-2022 however, figures trended downwards for sales -(46%), average order value (-10%), and order count (-40%). Finding ways to maintain the value captured from 2020-2021 would be essential for Elist to sustain long-term growth.
+From 2019 to 2022, Elist achieved total sales of $28 million across 108,000 orders, representing a 28% increase in both revenue and order volume over four years. A significant surge occurred in 2020, as the shift in consumer purchasing behavior driven by the pandemic resulted in $6 million in sales that year alone. However, in 2021-2022, key performance metrics declined, with sales decreasing by 46%, average order value by 10%, and order count by 40%. To ensure long-term growth, Elist must focus on strategies to retain the value captured during its peak sales period.
 
-<img src="https://github.com/user-attachments/assets/07354f5d-1287-4be4-95b4-95d0f66d26fd" width="800" height="200"/>
+<img src="https://github.com/user-attachments/assets/07354f5d-1287-4be4-95b4-95d0f66d26fd" width="700" height="180"/>
 
 The ERD of the datasets can be found [here](https://github.com/huizliang/Elist_Analysis/blob/main/Elist_ERD.png).
 
 # Deep-Dive Insights
 
 ## Sales Trends
-- **Yearly summary:** From 2019 to 2022, the yearly average sales was $7M, the yearly average number of sales was 27K, and the yearly average order value (AOV) was $245.
-- **Growth rates:** 2020 had by far the highest growth rate, with more than double the number of sales and sales revenue than 2019. By reason, the average order value in 2020 sales was also 31% more expensive than the average order value in 2019. Although the number of sales increased in 2021, total sales revenue went down with the average order value being 15% less than those in 2020.
+<img src="https://github.com/user-attachments/assets/a274f645-c7de-485b-aad6-01fbfbc6ab8d" width="400" height="160"/>
 
-## Product Trends*
+- **Yearly summary:** The highest annual average sales were recorded in 2020 ($847K) and 2021 ($761K), while the lowest averages occurred in 2019 ($322K) and 2022 ($413K), reflecting the impact of the pandemic on consumer purchasing behavior.
+- **Growth rates:** The year 2020 experienced the highest growth rate, with sales volume and revenue more than doubling compared to 2019. Consequently, the average order value in 2020 was 31% higher than in the previous year. However, in 2021, while overall sales growth declined by 10%, the number of orders saw a 6% increase, indicating a shift in purchasing patterns.
+- **Monthly summary:** The months with the highest growth rates were March 2020, November 2019, December 2020, and December 2022. This pattern highlights the impact of the shift to online shopping during the pandemic and seasonal demand spikes, emphasizing the need for strategic planning around key shopping periods.
 
-<img src="https://github.com/user-attachments/assets/4e71df45-16d5-464a-9afb-e2ddd3a360cd" width="700" height="200"/>
+## Product Trends
+
+<img src="https://github.com/user-attachments/assets/4e71df45-16d5-464a-9afb-e2ddd3a360cd" width="500" height="160"/>
 
 
-- **Finding:** By the end of the 4 year period, the top grossing product was the 27-inch 4K Gaming Monitor which made up 35% of all sales. Following closely, Apple AirPods made up 28% of sales, and MacBook Air accounted for 22% of total sales, generating $9.8M, $7.7M, and $6.2M respectively.
-- **Recommendation:** Interestingly, although the Apple iPhone had the lowest sales of all the Apple products, it had the highest AOV of all the Apple products. This points to hidden potential for iphones. Given the popularity of other Apple products sold by the company, focusing on strategies to increase iPhone sales could provide a valuable opportunity to significantly boost company revenue.
+- **Finding:** At the end of the four-year period, the top-grossing product was the 27-inch 4K Gaming Monitor, accounting for 35% of total sales or $9.8M. Closely following, Apple AirPods contributed 28% of sales ($7.7M), while the MacBook Air represented 22% ($6.2M).
+- **Recommendation:** Given the popularity of Apple products, focusing on strategies to increase sales of Apple products could provide a valuable opportunity to significantly boost company revenue. Moreover, although Apple iPhone experienced the lowest sales of all the Apple products, it had the highest AOV of all the Apple products. This points to hidden potential for iphones. Thus, developing strategies to increase iPhone sales could also potentially increase company revenue.
 
 ## Loyalty Program
 ![image](https://github.com/user-attachments/assets/19a9427b-14e1-4f13-a104-7586b2aa694c)
@@ -47,8 +50,9 @@ Note: 0 represents non-loyalty shoppers and 1 represents loyalty shoppers.
 
 ## Refund rates
 
-<img src="https://github.com/user-attachments/assets/1fd03764-c500-400c-a84b-0b9a470c7cfa" width="500" height="100"/>
+<img src="https://github.com/user-attachments/assets/1fd03764-c500-400c-a84b-0b9a470c7cfa" width="500" height="110"/>
 
-- **Apple Products:** The refund rate for apple products are as follows: Airpods (5%), ipHone (8%), and Macbook Air Laptop (11%). Given that the Macbook Air Laptop was the 3rd highest grossing product and has a high average order value of $1588, a recommendation would be to look into the reasons for returns in order to mitigate them.
-- **Finding:** Refund reates were highest in 202 at 10% and lowest in 2022 at 0%. However, this may be due to data incompleteness. A follow-up with the payments team will be needed to confirm refund rate for 2022.
+- **Apple Products:** 
+The refund rates for Apple products were as follows: AirPods (5%), iPhone (8%), and MacBook Air (11%). Given that the MacBook Air was the third highest-grossing product with a high average order value of $1,588, it is recommended to analyze the reasons for returns and implement strategies to reduce them, thereby minimizing revenue loss and improving customer satisfaction.
+- **Finding:** Refund rates were highest in 2020 at 10% and lowest in 2022 at 0%. However, this may be due to data incompleteness. A follow-up with the payments team will be needed to confirm refund rate for 2022.
 
