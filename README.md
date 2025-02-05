@@ -17,17 +17,17 @@ Notes:
 - For refunds and AOV specifically compare across Apple products
 
 # Overview
+<img src="https://github.com/user-attachments/assets/8442df55-6164-4313-a358-bdd2cfea50c7" width="700" height="280"/>
 
 From 2019 to 2022, Elist achieved total sales of $28 million across 108,000 orders, representing a 28% increase in both revenue and order volume over four years. A significant surge occurred in 2020, as the shift in consumer purchasing behavior driven by the pandemic resulted in $6 million in sales that year alone. However, in 2021-2022, key performance metrics declined, with sales decreasing by 46%, average order value by 10%, and order count by 40%. To ensure long-term growth, Elist must focus on strategies to retain the value captured during its peak sales period.
-
-<img src="https://github.com/user-attachments/assets/07354f5d-1287-4be4-95b4-95d0f66d26fd" width="700" height="180"/>
 
 The ERD of the datasets can be found [here](https://github.com/huizliang/Elist_Analysis/blob/main/Elist_ERD.png).
 
 # Deep-Dive Insights
 
 ## Sales Trends
-<img src="https://github.com/user-attachments/assets/a274f645-c7de-485b-aad6-01fbfbc6ab8d" width="400" height="160"/>
+<img src="https://github.com/user-attachments/assets/b9e58113-4c86-4b5d-a131-c505315466d7" width="900" height="200"/>
+
 
 - **Yearly summary:** The highest annual average sales were recorded in 2020 ($847K) and 2021 ($761K), while the lowest averages occurred in 2019 ($322K) and 2022 ($413K), reflecting the impact of the pandemic on consumer purchasing behavior.
 - **Growth rates:** The year 2020 experienced the highest growth rate, with sales volume and revenue more than doubling compared to 2019. Consequently, the average order value in 2020 was 31% higher than in the previous year. However, in 2021, while overall sales growth declined by 10%, the number of orders saw a 6% increase, indicating a shift in purchasing patterns.
