@@ -42,10 +42,12 @@ The ERD of the datasets can be found [here](https://github.com/huizliang/Elist_A
 - **Recommendation:** Given the popularity of Apple products, focusing on strategies to increase sales of Apple products could provide a valuable opportunity to significantly boost company revenue. Moreover, although Apple iPhone experienced the lowest sales of all the Apple products, it had the highest AOV of all the Apple products. This points to hidden potential for iphones. Thus, developing strategies to increase iPhone sales could also potentially increase company revenue.
 
 ## Loyalty Program
-![image](https://github.com/user-attachments/assets/19a9427b-14e1-4f13-a104-7586b2aa694c)
-Note: 0 represents non-loyalty shoppers and 1 represents loyalty shoppers.
+![image](https://github.com/user-attachments/assets/6a07e404-5f93-41a1-926d-1df743c39e80)
 
-- **Finding:** During 2019 and 2020, loyalty program customers made fewer purchases than non-loyalty program customers, and their purchases were less expensive than non-loyalty customers. However, in more recent years (2021-2022), loyalty customers began to make more purchases than non-loyalty customers and spent about $30 more on average per order in 2022.
+
+
+
+- **Finding:** Between 2019 and 2020, non-loyalty customers outperformed loyalty customers across all key metrics, including sales, average order value (AOV), and order count. However, in the subsequent years of 2021-2022, loyalty customers began to surpass non-loyalty customers in these areas. Sales for loyalty customers were $480K higher, average order values were $30 higher, and order count exceeded non-loyalty orders by 649, all of which indicate a favorable outcome for the loyalty program.
 - **Recommendation:** Considering the fact that in recent years, loyalty customers are not only making more purchases but also more expensive purchases than non-loyalty customers, we would recommend continuing with the loyalty program. 
 
 ## Refund rates
