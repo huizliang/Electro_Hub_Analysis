@@ -35,8 +35,7 @@ The ERD of the datasets can be found [here](https://github.com/huizliang/Elist_A
 
 ## Product Trends
 
-<img src="https://github.com/user-attachments/assets/4e71df45-16d5-464a-9afb-e2ddd3a360cd" width="500" height="160"/>
-
+<div align="center"> <img src="https://github.com/user-attachments/assets/4e71df45-16d5-464a-9afb-e2ddd3a360cd"/> </div>
 
 - **Finding:** At the end of the four-year period, the top-grossing product was the 27-inch 4K Gaming Monitor, accounting for 35% of total sales or $9.8M. Closely following, Apple AirPods contributed 28% of sales ($7.7M), while the MacBook Air represented 22% ($6.2M).
 - **Recommendation:** Given the popularity of Apple products, focusing on strategies to increase sales of Apple products could provide a valuable opportunity to significantly boost company revenue. Moreover, although Apple iPhone experienced the lowest sales of all the Apple products, it had the highest AOV of all the Apple products. This points to hidden potential for iphones. Thus, developing strategies to increase iPhone sales could also potentially increase company revenue.
