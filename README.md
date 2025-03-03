@@ -1,5 +1,4 @@
 # Electro Hub Analysis
-Sales trends analysis for electronics e-commerce company
 
 <div align="center"> <img src="https://github.com/user-attachments/assets/a95d2548-e441-4df0-b588-39cc441667ec"/> </div>
 
@@ -58,3 +57,14 @@ The ERD of the datasets can be found [here](https://github.com/huizliang/Elist_A
 - **Apple Products:** The refund rates for Apple products were as follows: AirPods (5%), iPhone (8%), and MacBook Air (11%). 
 - **Recommendation:** Similar to Thinkpad Laptops, reasons for returns should be looked into all products but especially for tbe MacBook Air as it also has a high average order value ($1,588). If reasons for returns can be mitigated, then revenue loss will be minimized and customer satisfaction will be increased overall. Lastly, it was also noted that refund rates were highest in 2020 at 10% and lowest in 2022 at 0%. However, this may be due to data incompleteness. A follow-up with the payments team will be needed to confirm refund rate for 2022.
 
+
+## Marketing Channels
+
+
+<div align="center"> <img src="https://github.com/user-attachments/assets/38097a8e-8eb2-44a5-9d0c-41890f9e115c"/> </div>
+ 
+- **Recommendation:** Based on the analysis of current sales trends, it is evident that the majority of sales are driven by direct traffic. To optimize marketing strategies and allocate resources more effectively, it would be beneficial to gather insights into how customers are discovering the company’s website. This data could enable more targeted marketing efforts, potentially boosting overall revenue.
+
+-  Additionally, email marketing is experiencing growth and presents an opportunity for further development. Identifying strategies to enhance this channel could lead to more significant returns.
+
+- On the other hand, both social media and affiliate marketing have shown stagnant performance. To improve outcomes, it would be prudent to concentrate efforts on enhancing the effectiveness of these channels, ensuring they contribute more substantially to revenue generation.
