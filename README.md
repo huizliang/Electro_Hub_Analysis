@@ -1,9 +1,9 @@
 # Electro Hub Analysis
 Sales trends analysis for electronics e-commerce company
 
-# Background of Electro Hub
+<div align="center"> <img src="https://github.com/user-attachments/assets/a95d2548-e441-4df0-b588-39cc441667ec"/> </div>
 
-![image](https://github.com/user-attachments/assets/c026e82a-78a0-4a6d-9eda-120806a0b3aa)
+# Background of Electro Hub
 
 Founded in 2018, Electro Hub is an e-commerce company that sells popular electronics products and that has since expanded to a global customer base. Like many e-commerce companies, Elist sells products through their online site as well as through their mobile app. They use a variety of marketing channels to reach customers, including Email campaigns, SEO, and affiliate links. Over the last few years, their more popular products have been products from Apple, Samsung, and ThinkPad. The purpose of this analysis is to examine the company's sales data from 2019 to 2022 in order to capture trends and revealations that may be used to grow Electro Hub's success.
 
@@ -45,20 +45,16 @@ The ERD of the datasets can be found [here](https://github.com/huizliang/Elist_A
 - **Recommendation:** Since there seems to be a huge demand for gaming monitors, the company should leverage its current success by dedicating resources to market this product category. Or perhaps, special offers can be offered to customers who purchase this product as a way to encourage them to add additional products. Second, given that Apple products generated 51% of total sales, strategies should also be developed to increase sales of products in this brand as it could provide a valuable opportunity to significantly boost company revenue. For example, data points to a hidden potential for Apple iPhone as they are the most expensive product in the Apple line but are generatin the least amount of sales within the brand. Thus, developing strategies to specifically increase iPhone sales would help increase company revenue as well.
 
 ## Loyalty Program
-![image](https://github.com/user-attachments/assets/6a07e404-5f93-41a1-926d-1df743c39e80)
-
-![image]()
-
-
+<div align="center"> <img src="https://github.com/user-attachments/assets/834f4d28-36e3-45d6-8d30-f9d38839517a"/> </div>
 
 - **Finding:** Between 2019 and 2020, non-loyalty customers outperformed loyalty customers across all key metrics, including sales, average order value (AOV), and order count. However, in the subsequent years of 2021-2022, loyalty customers began to surpass non-loyalty customers in these areas. Sales for loyalty customers were $480K higher, average order values were $30 higher, and order count exceeded non-loyalty orders by 649, all of which indicate a favorable outcome for the loyalty program.
 - **Recommendation:** Considering the fact that in recent years, loyalty customers are not only making more purchases but also more expensive purchases than non-loyalty customers, we would recommend continuing with the loyalty program. 
 
 ## Refund rates
 
-<img src="https://github.com/user-attachments/assets/1fd03764-c500-400c-a84b-0b9a470c7cfa" width="500" height="110"/>
+<div align="center"> <img src="https://github.com/user-attachments/assets/cfdc34bf-1aab-4cd8-8371-96ea78fcc986"/> </div>
 
-- **Apple Products:** 
-The refund rates for Apple products were as follows: AirPods (5%), iPhone (8%), and MacBook Air (11%). Given that the MacBook Air was the third highest-grossing product with a high average order value of $1,588, it is recommended to analyze the reasons for returns and implement strategies to reduce them, thereby minimizing revenue loss and improving customer satisfaction.
-- **Finding:** Refund rates were highest in 2020 at 10% and lowest in 2022 at 0%. However, this may be due to data incompleteness. A follow-up with the payments team will be needed to confirm refund rate for 2022.
+- **Findings:** The product with the highest refund rate was Thinkpad Laptops which has an average order value of $1,100. Given its high cost, reasons for returns should be examined in order to implement strategies to reduce loss. 
+- **Apple Products:** The refund rates for Apple products were as follows: AirPods (5%), iPhone (8%), and MacBook Air (11%). 
+- **Recommendation:** Similar to Thinkpad Laptops, reasons for returns should be looked into all products but especially for tbe MacBook Air as it also has a high average order value ($1,588). If reasons for returns can be mitigated, then revenue loss will be minimized and customer satisfaction will be increased overall. Lastly, it was also noted that refund rates were highest in 2020 at 10% and lowest in 2022 at 0%. However, this may be due to data incompleteness. A follow-up with the payments team will be needed to confirm refund rate for 2022.
 
