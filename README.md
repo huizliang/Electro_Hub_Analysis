@@ -1,6 +1,4 @@
-# Electro Hub Analysis
-
-<div align="center"> <img src="https://github.com/user-attachments/assets/a95d2548-e441-4df0-b588-39cc441667ec"/> </div>
+<div align="center"> <img src="https://github.com/user-attachments/assets/9c88d814-fb74-4ee1-9fae-34dcfcad88d3"/> </div>
 
 # Background of Electro Hub
 
