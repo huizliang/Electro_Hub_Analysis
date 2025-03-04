@@ -4,7 +4,7 @@
 
 # Background of Electro Hub
 
-Founded in 2018, Electro Hub is an e-commerce company that sells popular electronics products and that has since expanded to a global customer base. Like many e-commerce companies, Elist sells products through their online site as well as through their mobile app. They use a variety of marketing channels to reach customers, including Email campaigns, SEO, and affiliate links. Over the last few years, their more popular products have been products from Apple, Samsung, and ThinkPad. The purpose of this analysis is to examine the company's sales data from 2019 to 2022 in order to capture trends and revealations that may be used to grow Electro Hub's success.
+Established in 2018, Electro Hub is an e-commerce company that sells popular electronics products and that has since expanded to a global customer base. Similar to many e-commerce companies, Electro Hub  sells products through their online site as well as through their mobile app. They use a variety of marketing channels to reach customers, including Email campaigns, SEO, and affiliate links. Over the last few years, their more popular products have been products from Apple, Samsung, and ThinkPad. The purpose of this analysis is to examine the company's sales data from 2019 to 2022 in order to capture trends and revealations that may be used to grow Electro Hub's success.
 
 ### Stakeholder Questions
 
@@ -20,17 +20,17 @@ Notes:
 
 # Overview
 
-<div align="center"> <img src="https://github.com/user-attachments/assets/382c0a3a-9245-49a7-97bd-d7eb9f2ae520"/> </div>
+<div align="center"> <img src="https://github.com/user-attachments/assets/d077f5e9-11ed-4711-a3e3-caca2eb31173"/> </div>
 
-
-From 2019 to 2022, Elist achieved a total of $28 million in sales across 108,000 orders, demonstrating a 28% increase in both revenue and order volume over the course of four years. A significant time period for sales was 2020, in which the COVID-19 global pandemic caused consumers to shift from in-person to online shopping, resulting in $6 million in sales for that year alone. However, in 2021-2022, key performance metrics trended downwards, with sales decreasing by 46%, average order value by 10%, and order count by 40%. To ensure long-term growth, Elist must focus on strategies to retain the value captured during its peak sales period.
+From 2019 to 2022, Electro Hub achieved a total of $28 million in sales across 108,000 orders, demonstrating a 28% increase in both revenue and order volume over the course of four years. A significant time period for sales was 2020, in which the COVID-19 global pandemic caused consumers to shift from in-person to online shopping, resulting in $6 million in sales for that year alone. However, in 2021-2022, key performance metrics trended downwards, with sales decreasing by 46%, average order value by 10%, and order count by 40%. To ensure long-term growth, Electro Hub must focus on strategies to retain the value captured during its peak sales period.
 
 The ERD of the datasets can be found [here](https://github.com/huizliang/Elist_Analysis/blob/main/Elist_ERD.png).
 
 # Deep-Dive Insights
 
 ## Sales Trends
-<div align="center"> <img src="https://github.com/user-attachments/assets/7077b54b-865b-425c-a06a-1e0f451c666b"/> </div>
+<div align="center"> <img src="https://github.com/user-attachments/assets/2ba5988f-2b38-48b7-827d-a72e7214e3a4"/> </div>
+
 
 <div align="center"> <img src="https://github.com/user-attachments/assets/d957ddc1-6d0a-4303-8425-31c4e8029fe7"/> </div>
 
