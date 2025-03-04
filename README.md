@@ -1,6 +1,7 @@
-<div align="center"> <img src="https://github.com/user-attachments/assets/9c88d814-fb74-4ee1-9fae-34dcfcad88d3"/> </div>
+<div align="center"> <img src="https://github.com/user-attachments/assets/352b30c5-008a-4496-ad8f-19a0805644bf"/> </div>
 
-# Background of Electro Hub
+
+# Electro Hub Background
 
 Established in 2018, Electro Hub is an e-commerce company that sells popular electronics products and that has since expanded to a global customer base. Similar to many e-commerce companies, Electro Hub  sells products through their online site as well as through their mobile app. They use a variety of marketing channels to reach customers, including Email campaigns, SEO, and affiliate links. Over the last few years, their more popular products have been products from Apple, Samsung, and ThinkPad. The purpose of this analysis is to examine the company's sales data from 2019 to 2022 in order to capture trends and revealations that may be used to grow Electro Hub's success.
 
